@@ -1,16 +1,27 @@
-## Hi there 👋
+## Phil McKechnie
 
-<!--
-**Pheluciam/Pheluciam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence Analyst and Data Engineer — Melbourne, Australia**
 
-Here are some ideas to get you started:
+15+ years across operations, supply chain and analytics. The last 5 years in dedicated BI / Operations Analyst roles working with SQL, Tableau, Power BI and stakeholder reporting. Currently building a data engineering portfolio with dbt, Snowflake, Airflow and Python — covering ETL pipelines, dimensional modelling and data warehouse work. Comfortable across both analytics delivery and the data platform underneath it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current portfolio projects
+
+- **[retail-demand-forecasting-project](https://github.com/Pheluciam/retail-demand-forecasting-project)** — production-shaped retail demand-planning pipeline. M5 Forecasting (Kaggle/Walmart) → Azure SQL → Python extract → Snowflake → Airflow (Docker) → dbt → Power BI.
+- **[cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project)** — dbt-first analytics on NT public-transport GTFS data. Staging and marts layering with Power BI dashboard.
+
+### Earlier learning
+
+- **[pheluciam.github.io](https://pheluciam.github.io)** — 2023 self-directed learning portfolio. Background only; see the two projects above for current work.
+
+### Stack
+
+- **SQL & modelling:** PostgreSQL, T-SQL, Snowflake, dbt, dimensional modelling
+- **Pipelines:** Airflow, Python (pandas), Docker
+- **BI & reporting:** Power BI, Tableau
+- **Cloud:** Azure, AWS
+
+### Background
+
+NEC Australia (BI Analyst & Programmer, Sept 2023 – Mar 2026). Prior 13 years across operations and supply chain analytics — Harding's Hardware, Alex Makes Meals, Spartan School Supplies.
+
+Open to hybrid roles in Melbourne's eastern suburbs.
