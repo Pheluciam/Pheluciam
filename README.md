@@ -26,4 +26,4 @@
 
 NEC Australia (BI Analyst & Programmer, Sept 2023 – Mar 2026). Prior 13 years across operations and supply chain analytics — Harding's Hardware, Alex Makes Meals, Spartan School Supplies.
 
-Open to hybrid roles in Melbourne's eastern suburbs.
+Open to roles in Melbourne's north-eastern, eastern and south-eastern suburbs.
