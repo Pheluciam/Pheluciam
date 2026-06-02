@@ -2,7 +2,7 @@
 
 **Business Intelligence Analyst and Data Engineer — Melbourne, Australia**
 
-15+ years across operations, supply chain and analytics. The last 5 years in dedicated BI / Operations Analyst roles working with SQL, Tableau, Power BI and stakeholder reporting. Currently building a data engineering portfolio with dbt, Snowflake, Airflow and Python — covering ETL pipelines, dimensional modelling and data warehouse work. Comfortable across both analytics delivery and the data platform underneath it.
+15+ years across operations, supply chain and analytics. The last 5 years in dedicated BI / Operations Analyst roles working with SQL, Tableau, Power BI and stakeholder reporting. Currently building a data engineering portfolio with dbt, Snowflake, Airflow, Python and AWS-native lakehouse work (S3, Glue, Athena, Step Functions, Iceberg) — covering ETL pipelines, dimensional modelling, data warehouse and lakehouse architectures. Comfortable across both analytics delivery and the data platform underneath it.
 
 ### Portfolio Projects
 
@@ -11,7 +11,7 @@
 - **[retail-demand-forecasting-project](https://github.com/Pheluciam/retail-demand-forecasting-project)** — production-shaped retail demand-planning pipeline. M5 Forecasting (Kaggle/Walmart) → Azure SQL → Python extract → Snowflake → Airflow (Docker) → dbt → Power BI.
 - **[cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project)** — dbt-first analytics on NT public-transport GTFS data. Staging and marts layering with Power BI dashboard.
 
-### Earlier learning
+### Earlier Learning
 
 - **[pheluciam.github.io](https://pheluciam.github.io)** — 2023 self-directed learning portfolio. Background only; see the two projects above for current work.
 
