@@ -4,7 +4,9 @@
 
 15+ years across operations, supply chain and analytics. The last 5 years in dedicated BI / Operations Analyst roles working with SQL, Tableau, Power BI and stakeholder reporting. Currently building a data engineering portfolio with dbt, Snowflake, Airflow and Python — covering ETL pipelines, dimensional modelling and data warehouse work. Comfortable across both analytics delivery and the data platform underneath it.
 
-### Current portfolio projects
+### Portfolio Projects
+
+- **[financial-analytics-lakehouse-project](https://github.com/Pheluciam/financial-analytics-lakehouse-project) — AWS-native data lakehouse on SEC EDGAR XBRL fundamentals for the S&P 100. Direct-to-S3 raw → dbt-athena on Apache Iceberg → AWS Step Functions orchestration → 5-page Power BI analytical report with univariate revenue forecasting.
 
 - **[retail-demand-forecasting-project](https://github.com/Pheluciam/retail-demand-forecasting-project)** — production-shaped retail demand-planning pipeline. M5 Forecasting (Kaggle/Walmart) → Azure SQL → Python extract → Snowflake → Airflow (Docker) → dbt → Power BI.
 - **[cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project)** — dbt-first analytics on NT public-transport GTFS data. Staging and marts layering with Power BI dashboard.
@@ -15,10 +17,10 @@
 
 ### Stack
 
-- **SQL & modelling:** PostgreSQL, T-SQL, Snowflake, dbt, dimensional modelling
-- **Pipelines:** Airflow, Python (pandas), Docker
+- **SQL & modelling:** PostgreSQL, T-SQL, Snowflake, dbt, dbt-athena, dimensional modelling, Data Vault 2.0
+- **Pipelines:** Airflow, AWS Step Functions, Python (pandas), Docker
 - **BI & reporting:** Power BI, Tableau
-- **Cloud:** Azure, AWS
+- **Cloud / lakehouse:** AWS (S3, Glue, Athena, Step Functions, Lake Formation), Azure, Apache Iceberg
 
 ### Background
 
