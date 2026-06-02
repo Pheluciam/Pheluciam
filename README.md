@@ -13,7 +13,7 @@
 
 ### Earlier Learning
 
-- **[pheluciam.github.io](https://pheluciam.github.io)** — 2023 self-directed learning portfolio. Background only; see the two projects above for current work.
+- **[pheluciam.github.io](https://pheluciam.github.io)** — 2023 self-directed learning portfolio. Background only; see the three projects above for current work.
 
 ### Stack
 
