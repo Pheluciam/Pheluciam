@@ -9,7 +9,7 @@
 - [financial-analytics-lakehouse-project](https://github.com/Pheluciam/financial-analytics-lakehouse-project) — AWS-native data lakehouse on SEC EDGAR XBRL fundamentals for the S&P 100. Direct-to-S3 raw → dbt-athena on Apache Iceberg → AWS Step Functions orchestration → 6-page Power BI analytical report with univariate revenue forecasting.
 
 - **[retail-demand-forecasting-project](https://github.com/Pheluciam/retail-demand-forecasting-project)** — production-grade retail demand-planning pipeline. M5 Forecasting (Kaggle/Walmart) → Azure SQL → Python extract → Snowflake → Airflow (Docker) → dbt (Kimball star) → Snowflake Cortex forecast → 5-page Power BI dashboard.
-- **[cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project)** — dbt-first analytics on NT public-transport GTFS data. Staging and marts layering with Power BI dashboard.
+- **[cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project)** — two NT GTFS feeds (Darwin + Alice Springs) → Python ingestion → PostgreSQL → dbt (Kimball star) → 4-page Power BI dashboard. Multi-feed surrogate keys resolving cross-feed ID collisions; Kimball modelling foundation.
 
 ### Earlier Learning
 
