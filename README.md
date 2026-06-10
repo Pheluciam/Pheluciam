@@ -11,6 +11,12 @@
 - **[retail-demand-forecasting-project](https://github.com/Pheluciam/retail-demand-forecasting-project)** — production-grade retail demand-planning pipeline. M5 Forecasting (Kaggle/Walmart) → Azure SQL → Python extract → Snowflake → Airflow (Docker) → dbt (Kimball star) → Snowflake Cortex forecast → 5-page Power BI dashboard.
 - **[cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project)** — two NT GTFS feeds (Darwin + Alice Springs) → Python ingestion → PostgreSQL → dbt (Kimball star) → 4-page Power BI dashboard. Multi-feed surrogate keys resolving cross-feed ID collisions; Kimball modelling foundation.
 
+### Mini Projects
+
+Smaller, single-theme builds rounding out the portfolio.
+
+- **[operations-analytics-dbt-tableau-project](https://github.com/Pheluciam/operations-analytics-dbt-tableau-project)** — dbt testing + macros depth on the AdventureWorks distribution slice. PostgreSQL → dbt (custom generic tests, dbt-utils + dbt-expectations, reusable macro, incremental model, snapshot — 155 tests green) → [live three-dashboard Tableau Public workbook](https://public.tableau.com/views/adventureworks_operations/OutboundSalesCustomer?:display_count=n&:origin=viz_share_link).
+
 ### Earlier Learning
 
 - **[pheluciam.github.io](https://pheluciam.github.io)** — 2023 self-directed learning portfolio. Background only; see the three projects above for current work.
@@ -19,7 +25,7 @@
 
 - **SQL & modelling:** PostgreSQL, T-SQL, Snowflake, dbt, dbt-athena, dimensional modelling, Data Vault 2.0
 - **Pipelines:** Airflow, AWS Step Functions, Python (pandas), Docker
-- **BI & reporting:** Power BI, Tableau
+- **BI & reporting:** Power BI, Tableau (live Tableau Public workbook)
 - **Cloud / lakehouse:** AWS (S3, Glue, Athena, Step Functions, Lake Formation), Azure, Apache Iceberg
 
 ### Background
