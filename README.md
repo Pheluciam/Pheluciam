@@ -32,6 +32,6 @@ Larger architecture builds across cloud warehouse, lakehouse and orchestration s
 
 ### Background
 
-NEC Australia (BI Analyst & Programmer, Sept 2023 – Mar 2026). Prior 13 years across operations and supply chain analytics — Harding's Hardware, Alex Makes Meals, Spartan School Supplies.
+NEC Australia (BI Analyst & Programmer, Sept 2023 – Mar 2026). Prior 15+ years across operations and supply chain analytics — Harding's Hardware, Alex Makes Meals, Spartan School Supplies.
 
 Open to roles in Melbourne's north-eastern, eastern and south-eastern suburbs.
